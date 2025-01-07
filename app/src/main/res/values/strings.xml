@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="logs">Login</string>
+    <string name="pass">Password</string>
+    <string name="conx">Connexion</string>
+    <string name="inscr">S inscrire</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prenom</string>
+    <string name="email">Login/Email</string>
+    <string name="motdepasse">Password</string>
+
+
+</resources>
